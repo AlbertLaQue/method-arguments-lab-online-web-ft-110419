@@ -4,4 +4,4 @@ end
 introduction("Sean")
 
 def introduction(name,language)
-  puts 
+  puts "Hi, my name is Dan and I am learning to program in "
